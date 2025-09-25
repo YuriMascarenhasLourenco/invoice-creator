@@ -1,6 +1,6 @@
 # Invoice Issuer Microservices Platform
 
-> **Tech Stack:** NestJS · TypeScript · Docker · PostgreSQL · RabbitMQ · Redis · MinIO · MongoDB
+> **Tech Stack:** NestJS · TypeScript · Docker · PostgreSQL · RabbitMQ · Redis · MinIO · MongoDB · Prometheus · Grafana
 
 A distributed microservices system for issuing and delivering electronic invoices (NFe), designed with **clean architecture** and **event-driven communication**. Each service is independent, allowing scalability, maintainability, and testability.
 
